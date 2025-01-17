@@ -9,8 +9,6 @@ Original file is located at
 Interactive visualization - Wine analysis
 """
 
-pip install streamlit
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
